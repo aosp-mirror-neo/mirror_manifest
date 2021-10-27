@@ -77,6 +77,7 @@
   <project name="device/google/dragon-kernel" />
   <project name="device/google/fuchsia" />
   <project name="device/google/gs-common" />
+  <project name="device/google/gs101" />
   <project name="device/google/gs101-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />

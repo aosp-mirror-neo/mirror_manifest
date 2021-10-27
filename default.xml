@@ -165,6 +165,7 @@
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />
   <project name="kernel/gs-modules/aoc_ipc" />
+  <project name="kernel/gs-modules/bluetooth/broadcom" />
   <project name="kernel/hikey-linaro" />
   <project name="kernel/hikey-modules" />
   <project name="kernel/lk" />

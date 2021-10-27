@@ -83,6 +83,7 @@
   <project name="device/google/muskie" />
   <project name="device/google/phantasm" />
   <project name="device/google/raviole" />
+  <project name="device/google/raviole-kernel" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-kernel" />
   <project name="device/google/redbull-sepolicy" />

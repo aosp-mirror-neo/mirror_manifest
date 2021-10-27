@@ -1343,6 +1343,7 @@
   <project name="platform/hardware/google/camera" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/gchips" />
+  <project name="platform/hardware/google/graphics/common" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />

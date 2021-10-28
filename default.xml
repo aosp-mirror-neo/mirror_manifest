@@ -178,6 +178,7 @@
   <project name="kernel/google-modules/fingerprint/goodix" />
   <project name="kernel/google-modules/gpu" />
   <project name="kernel/google-modules/lwis" />
+  <project name="kernel/google-modules/nfc" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

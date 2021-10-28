@@ -175,6 +175,7 @@
   <project name="kernel/google-modules/display" />
   <project name="kernel/google-modules/edgetpu" />
   <project name="kernel/google-modules/fingerprint/fpc" />
+  <project name="kernel/google-modules/fingerprint/goodix" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

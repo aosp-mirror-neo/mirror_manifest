@@ -183,6 +183,7 @@
   <project name="kernel/google-modules/power/reset" />
   <project name="kernel/google-modules/touch/common" />
   <project name="kernel/google-modules/touch/fts" />
+  <project name="kernel/google-modules/touch/fts_touch" />
   <project name="kernel/google-modules/touch/sec" />
   <project name="kernel/google-modules/uwb" />
   <project name="kernel/google-modules/wlan/bcmdhd43752" />

@@ -183,6 +183,7 @@
   <project name="kernel/google-modules/touch/common" />
   <project name="kernel/google-modules/touch/fts" />
   <project name="kernel/google-modules/touch/sec" />
+  <project name="kernel/google-modules/uwb" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

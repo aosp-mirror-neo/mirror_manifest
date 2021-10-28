@@ -181,6 +181,7 @@
   <project name="kernel/google-modules/nfc" />
   <project name="kernel/google-modules/power/reset" />
   <project name="kernel/google-modules/touch/common" />
+  <project name="kernel/google-modules/touch/fts" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

@@ -168,6 +168,7 @@
   <project name="kernel/goldfish" />
   <project name="kernel/goldfish-modules" />
   <project name="kernel/google-modules/amplifiers" />
+  <project name="kernel/google-modules/aoc" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

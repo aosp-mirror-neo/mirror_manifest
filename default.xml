@@ -172,6 +172,7 @@
   <project name="kernel/google-modules/aoc_ipc" />
   <project name="kernel/google-modules/bluetooth/broadcom" />
   <project name="kernel/google-modules/bms" />
+  <project name="kernel/google-modules/display" />
   <project name="kernel/gs" />
   <project name="kernel/gs-modules/amplifiers" />
   <project name="kernel/gs-modules/aoc" />

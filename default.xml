@@ -187,6 +187,7 @@
   <project name="kernel/google-modules/touch/sec" />
   <project name="kernel/google-modules/touch/sec_touch" />
   <project name="kernel/google-modules/uwb" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" />
   <project name="kernel/google-modules/wlan/bcmdhd43752" />
   <project name="kernel/google-modules/wlan/bcmdhd4389" />
   <project name="kernel/gs" />

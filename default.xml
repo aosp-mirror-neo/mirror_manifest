@@ -930,6 +930,7 @@
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
+  <project name="platform/external/rust/crates/argh" />
   <project name="platform/external/rust/crates/ash" />
   <project name="platform/external/rust/crates/async-stream" />
   <project name="platform/external/rust/crates/async-stream-impl" />

@@ -1691,6 +1691,7 @@
   <project name="platform/prebuilts/androidx/exoplayer" />
   <project name="platform/prebuilts/androidx/external" />
   <project name="platform/prebuilts/androidx/internal" />
+  <project name="platform/prebuilts/androidx/konan" />
   <project name="platform/prebuilts/androidx/studio" />
   <project name="platform/prebuilts/androidx/traceprocessor" />
   <project name="platform/prebuilts/asuite" />

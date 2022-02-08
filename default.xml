@@ -2103,6 +2103,7 @@
   <project name="toolchain/clang" />
   <project name="toolchain/clang-tools-extra" />
   <project name="toolchain/cloog" />
+  <project name="toolchain/common" />
   <project name="toolchain/compiler-rt" />
   <project name="toolchain/expat" />
   <project name="toolchain/gcc" />

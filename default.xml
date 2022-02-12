@@ -1771,6 +1771,7 @@
   <project name="platform/prebuilts/fullsdk-linux/build-tools/30.0.3" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools/31.0.0" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools/32.0.0" />
+  <project name="platform/prebuilts/fullsdk-linux/build-tools/32.1.0" />
   <project name="platform/prebuilts/fullsdk-linux/platform-tools" />
   <project name="platform/prebuilts/fullsdk-linux/tools" />
   <project name="platform/prebuilts/fullsdk/build-tools/21-darwin" />

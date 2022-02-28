@@ -1860,6 +1860,7 @@
   <project name="platform/prebuilts/google-breakpad/windows-x86" />
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/jdk/jdk11" />
+  <project name="platform/prebuilts/jdk/jdk17" />
   <project name="platform/prebuilts/jdk/jdk8" />
   <project name="platform/prebuilts/jdk/jdk9" />
   <project name="platform/prebuilts/ktlint" />

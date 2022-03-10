@@ -2186,6 +2186,7 @@
   <project name="trusty/app/confirmationui" />
   <project name="trusty/app/gatekeeper" />
   <project name="trusty/app/keymaster" />
+  <project name="trusty/app/keymint" />
   <project name="trusty/app/nvram" />
   <project name="trusty/app/sample" />
   <project name="trusty/app/storage" />

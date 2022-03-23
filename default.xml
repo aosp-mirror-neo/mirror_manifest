@@ -2173,6 +2173,7 @@
   <project name="toolchain/prebuilts/ndk/r20" />
   <project name="toolchain/prebuilts/ndk/r21" />
   <project name="toolchain/prebuilts/ndk/r23" />
+  <project name="toolchain/prebuilts/ndk/r24" />
   <project name="toolchain/python" />
   <project name="toolchain/rustc" />
   <project name="toolchain/sed" />

@@ -712,6 +712,7 @@
   <project name="platform/external/libssh2" />
   <project name="platform/external/libtextclassifier" />
   <project name="platform/external/libtraceevent" />
+  <project name="platform/external/libtracefs" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />
   <project name="platform/external/liburing" />

@@ -971,6 +971,7 @@
   <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />
   <project name="platform/external/rust/crates/const_fn" />
+  <project name="platform/external/rust/crates/cortex-a" />
   <project name="platform/external/rust/crates/coset" />
   <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/criterion" />

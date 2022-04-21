@@ -1802,6 +1802,7 @@
   <project name="platform/prebuilts/fullsdk/platforms/android-30" />
   <project name="platform/prebuilts/fullsdk/platforms/android-31" />
   <project name="platform/prebuilts/fullsdk/platforms/android-32" />
+  <project name="platform/prebuilts/fullsdk/platforms/android-33" />
   <project name="platform/prebuilts/fullsdk/platforms/android-system-29" />
   <project name="platform/prebuilts/fullsdk/platforms/android-system-T" />
   <project name="platform/prebuilts/fullsdk/sources/android-28" />

@@ -999,6 +999,7 @@
   <project name="platform/external/rust/crates/flate2" />
   <project name="platform/external/rust/crates/fnv" />
   <project name="platform/external/rust/crates/foreign-types" />
+  <project name="platform/external/rust/crates/foreign-types-macros" />
   <project name="platform/external/rust/crates/foreign-types-shared" />
   <project name="platform/external/rust/crates/form_urlencoded" />
   <project name="platform/external/rust/crates/futures" />

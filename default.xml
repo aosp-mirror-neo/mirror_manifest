@@ -853,6 +853,7 @@
   <project name="platform/external/puffin" />
   <project name="platform/external/python" path="platform/external/python.git" />
   <project name="platform/external/python/Pillow" />
+  <project name="platform/external/python/absl-py" />
   <project name="platform/external/python/apitools" />
   <project name="platform/external/python/appdirs" />
   <project name="platform/external/python/asn1crypto" />

@@ -1408,6 +1408,7 @@
   <project name="platform/hardware/bsp/qcom" />
   <project name="platform/hardware/bsp/rockchip" />
   <project name="platform/hardware/google" path="platform/hardware/google.git" />
+  <project name="platform/hardware/google/aemu" />
   <project name="platform/hardware/google/apf" />
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />

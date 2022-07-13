@@ -2225,6 +2225,7 @@
   <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/aospstats" />
+  <project name="tools/fetch_artifact" />
   <project name="tools/manifest" />
   <project name="tools/platform-compat" />
   <project name="tools/presubmit-automerger/test1" />

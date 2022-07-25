@@ -2128,6 +2128,7 @@
   <project name="platform/tools/motodev" />
   <project name="platform/tools/multitest_transport" />
   <project name="platform/tools/ndkports" />
+  <project name="platform/tools/netsim" />
   <project name="platform/tools/repohooks" />
   <project name="platform/tools/repohooks-trampoline" />
   <project name="platform/tools/security" />

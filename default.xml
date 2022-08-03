@@ -577,6 +577,7 @@
   <project name="platform/external/grpc-grpc-java" />
   <project name="platform/external/grub" />
   <project name="platform/external/gsoap" />
+  <project name="platform/external/gson" />
   <project name="platform/external/gtest" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />

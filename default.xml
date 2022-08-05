@@ -2108,7 +2108,6 @@
   <project name="platform/tools/asuite" />
   <project name="platform/tools/base" />
   <project name="platform/tools/bdk" />
-  <project name="platform/tools/betosim" />
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
   <project name="platform/tools/carrier_settings" />

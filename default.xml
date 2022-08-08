@@ -876,6 +876,7 @@
   <project name="platform/external/python/astroid" />
   <project name="platform/external/python/atomicwrites" />
   <project name="platform/external/python/attrs" />
+  <project name="platform/external/python/bumble" />
   <project name="platform/external/python/cachetools" />
   <project name="platform/external/python/cffi" />
   <project name="platform/external/python/cpython2" />

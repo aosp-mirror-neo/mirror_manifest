@@ -346,6 +346,7 @@
   <project name="platform/external/bazelbuild-remote-apis" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_fuzzing" />
+  <project name="platform/external/bazelbuild-rules_license" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
   <project name="platform/external/bison" />

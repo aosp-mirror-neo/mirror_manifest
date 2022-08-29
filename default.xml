@@ -1994,6 +1994,7 @@
   <project name="platform/prebuilts/swig/linux-x86" />
   <project name="platform/prebuilts/swig/windows-x86" />
   <project name="platform/prebuilts/tools" />
+  <project name="platform/prebuilts/trusty/sysroot" />
   <project name="platform/prebuilts/vndk/v27" />
   <project name="platform/prebuilts/vndk/v28" />
   <project name="platform/prebuilts/vndk/v29" />

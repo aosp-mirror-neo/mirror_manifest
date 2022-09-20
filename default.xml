@@ -1163,6 +1163,7 @@
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
+  <project name="platform/external/rust/crates/synstructure" />
   <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
   <project name="platform/external/rust/crates/terminal-size" />

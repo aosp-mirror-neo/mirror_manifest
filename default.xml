@@ -1113,6 +1113,7 @@
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-project-lite" />
   <project name="platform/external/rust/crates/pin-utils" />
+  <project name="platform/external/rust/crates/pkcs8" />
   <project name="platform/external/rust/crates/plotters" />
   <project name="platform/external/rust/crates/plotters-backend" />
   <project name="platform/external/rust/crates/plotters-svg" />

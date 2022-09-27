@@ -1150,6 +1150,7 @@
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/same-file" />
   <project name="platform/external/rust/crates/scopeguard" />
+  <project name="platform/external/rust/crates/sec1" />
   <project name="platform/external/rust/crates/semver" />
   <project name="platform/external/rust/crates/serde" />
   <project name="platform/external/rust/crates/serde-xml-rs" />

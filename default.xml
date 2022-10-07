@@ -662,6 +662,7 @@
   <project name="platform/external/kythe" />
   <project name="platform/external/lame" />
   <project name="platform/external/lcc" />
+  <project name="platform/external/leveldb" />
   <project name="platform/external/libabigail" />
   <project name="platform/external/libaom" />
   <project name="platform/external/libavc" />

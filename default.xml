@@ -189,6 +189,7 @@
   <project name="kernel/google-modules/fingerprint/fpc" />
   <project name="kernel/google-modules/fingerprint/goodix" />
   <project name="kernel/google-modules/gpu" />
+  <project name="kernel/google-modules/gxp/gs201" />
   <project name="kernel/google-modules/lwis" />
   <project name="kernel/google-modules/nfc" />
   <project name="kernel/google-modules/power/reset" />

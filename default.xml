@@ -85,6 +85,7 @@
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />
   <project name="device/google/muskie" />
+  <project name="device/google/pantah" />
   <project name="device/google/phantasm" />
   <project name="device/google/raviole" />
   <project name="device/google/raviole-kernel" />

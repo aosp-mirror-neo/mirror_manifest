@@ -83,6 +83,7 @@
   <project name="device/google/gs101" />
   <project name="device/google/gs101-sepolicy" />
   <project name="device/google/gs201" />
+  <project name="device/google/gs201-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />
   <project name="device/google/muskie" />

@@ -1303,6 +1303,7 @@
   <project name="platform/external/trappy" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
+  <project name="platform/external/truth" />
   <project name="platform/external/turbine" />
   <project name="platform/external/tz" />
   <project name="platform/external/u-boot" />

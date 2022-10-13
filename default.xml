@@ -175,6 +175,7 @@
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/devices/google/bluejay" />
   <project name="kernel/exynos" />
+  <project name="kernel/exynos-modules/drivers" />
   <project name="kernel/goldfish" />
   <project name="kernel/goldfish-modules" />
   <project name="kernel/google-modules/amplifiers" />

@@ -2329,6 +2329,7 @@
   <project name="trusty/external/trusty" />
   <project name="trusty/host/aidl" />
   <project name="trusty/host/common" />
+  <project name="trusty/interfaces" />
   <project name="trusty/lib" />
   <project name="trusty/lk/common" />
   <project name="trusty/lk/nxp" />

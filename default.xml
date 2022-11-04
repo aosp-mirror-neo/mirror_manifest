@@ -1187,6 +1187,7 @@
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
   <project name="platform/external/rust/crates/standback" />
+  <project name="platform/external/rust/crates/static_assertions" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />

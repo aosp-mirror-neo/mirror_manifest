@@ -1721,6 +1721,7 @@
   <project name="platform/packages/modules/BootPrebuilt/5.4/arm64" />
   <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/CellBroadcastService" />
+  <project name="platform/packages/modules/ConfigInfrastructure" />
   <project name="platform/packages/modules/Connectivity" />
   <project name="platform/packages/modules/Cronet" />
   <project name="platform/packages/modules/DnsResolver" />

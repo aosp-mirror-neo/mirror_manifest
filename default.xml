@@ -1494,6 +1494,7 @@
   <project name="platform/hardware/google/aemu" />
   <project name="platform/hardware/google/apf" />
   <project name="platform/hardware/google/atv/refDesignRcu/atmosic" />
+  <project name="platform/hardware/google/atv/refDesignRcu/realtek" />
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />
   <project name="platform/hardware/google/easel" />

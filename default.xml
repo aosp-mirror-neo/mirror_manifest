@@ -2031,6 +2031,7 @@
   <project name="platform/prebuilts/module_sdk/Bluetooth" />
   <project name="platform/prebuilts/module_sdk/ConfigInfrastructure" />
   <project name="platform/prebuilts/module_sdk/Connectivity" />
+  <project name="platform/prebuilts/module_sdk/HealthFitness" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
   <project name="platform/prebuilts/module_sdk/MediaProvider" />

@@ -348,6 +348,7 @@
   <project name="platform/external/apache-http" />
   <project name="platform/external/apache-log4cxx" />
   <project name="platform/external/apache-qp" />
+  <project name="platform/external/apache-velocity-engine" />
   <project name="platform/external/apache-xml" />
   <project name="platform/external/apple-coreaudiosamples" />
   <project name="platform/external/archive-patcher" />

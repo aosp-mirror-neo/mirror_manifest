@@ -2360,6 +2360,7 @@
   <project name="toolchain/prebuilts/ndk/releases" />
   <project name="toolchain/prebuilts/sysroot/platform/riscv64-linux-android" />
   <project name="toolchain/python" />
+  <project name="toolchain/rr" />
   <project name="toolchain/rustc" />
   <project name="toolchain/sccache" />
   <project name="toolchain/sed" />

@@ -1955,6 +1955,7 @@
   <project name="platform/prebuilts/fullsdk/build-tools/22-darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-linux" />
   <project name="platform/prebuilts/fullsdk/build-tools/22-windows" />
+  <project name="platform/prebuilts/fullsdk/platforms" />
   <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />

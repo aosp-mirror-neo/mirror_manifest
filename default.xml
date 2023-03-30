@@ -1967,6 +1967,7 @@
   <project name="platform/prebuilts/fullsdk/platforms/android-TPS" />
   <project name="platform/prebuilts/fullsdk/platforms/android-system-29" />
   <project name="platform/prebuilts/fullsdk/platforms/android-system-T" />
+  <project name="platform/prebuilts/fullsdk/sources" />
   <project name="platform/prebuilts/fullsdk/sources/android-28" />
   <project name="platform/prebuilts/fullsdk/sources/android-29" />
   <project name="platform/prebuilts/fullsdk/sources/android-30" />

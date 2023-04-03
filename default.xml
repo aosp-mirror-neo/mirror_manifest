@@ -1280,6 +1280,7 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/unsafe-libyaml" />
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
   <project name="platform/external/rust/crates/userfaultfd" />

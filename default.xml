@@ -1239,6 +1239,7 @@
   <project name="platform/external/rust/crates/socket2" />
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
+  <project name="platform/external/rust/crates/stable_deref_trait" />
   <project name="platform/external/rust/crates/standback" />
   <project name="platform/external/rust/crates/static_assertions" />
   <project name="platform/external/rust/crates/structopt" />

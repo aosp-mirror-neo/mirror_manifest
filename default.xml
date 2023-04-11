@@ -1289,6 +1289,7 @@
   <project name="platform/external/rust/crates/userfaultfd" />
   <project name="platform/external/rust/crates/userfaultfd-sys" />
   <project name="platform/external/rust/crates/uuid" />
+  <project name="platform/external/rust/crates/version_check" />
   <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/vmm_vhost" />
   <project name="platform/external/rust/crates/vsock" />

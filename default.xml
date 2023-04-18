@@ -1051,6 +1051,7 @@
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/clap_derive" />
   <project name="platform/external/rust/crates/clap_lex" />
+  <project name="platform/external/rust/crates/cobs" />
   <project name="platform/external/rust/crates/codespan-reporting" />
   <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />

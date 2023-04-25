@@ -1264,6 +1264,7 @@
   <project name="platform/external/rust/crates/thiserror" />
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
+  <project name="platform/external/rust/crates/threadpool" />
   <project name="platform/external/rust/crates/time" />
   <project name="platform/external/rust/crates/time-macros" />
   <project name="platform/external/rust/crates/time-macros-impl" />

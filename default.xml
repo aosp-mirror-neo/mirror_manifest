@@ -86,6 +86,7 @@
   <project name="device/google/gs201-sepolicy" />
   <project name="device/google/lynx" />
   <project name="device/google/lynx-kernel" />
+  <project name="device/google/lynx-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />
   <project name="device/google/muskie" />

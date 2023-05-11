@@ -215,6 +215,7 @@
   <project name="kernel/google-modules/video/gchips" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" />
+  <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" />
   <project name="kernel/google-modules/wlan/wlan_ptracker" />
   <project name="kernel/gs" />

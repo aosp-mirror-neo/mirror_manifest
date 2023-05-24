@@ -896,6 +896,7 @@
   <project name="platform/external/oprofile" />
   <project name="platform/external/optee/apps" />
   <project name="platform/external/oss-fuzz" />
+  <project name="platform/external/ot-br-posix" />
   <project name="platform/external/ow2-asm" />
   <project name="platform/external/owasp/java-encoder" />
   <project name="platform/external/owasp/sanitizer" />

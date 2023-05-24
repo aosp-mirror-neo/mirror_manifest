@@ -347,6 +347,7 @@
   <project name="platform/external/androidplot" />
   <project name="platform/external/angle" />
   <project name="platform/external/annotation-tools" />
+  <project name="platform/external/anonymous-counting-tokens" />
   <project name="platform/external/ant-glob" />
   <project name="platform/external/antlr" />
   <project name="platform/external/apache-apr" />

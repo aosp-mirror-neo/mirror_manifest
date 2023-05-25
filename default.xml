@@ -2357,6 +2357,7 @@
   <project name="toolchain/binutils" />
   <project name="toolchain/build" />
   <project name="toolchain/capnproto" />
+  <project name="toolchain/cargo-vet" />
   <project name="toolchain/ccache" />
   <project name="toolchain/clang" />
   <project name="toolchain/clang-tools-extra" />

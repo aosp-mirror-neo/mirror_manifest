@@ -178,6 +178,7 @@
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/devices/google/bluejay" />
   <project name="kernel/devices/google/lynx" />
+  <project name="kernel/devices/google/tangorpro" />
   <project name="kernel/exynos" />
   <project name="kernel/exynos-modules/config" />
   <project name="kernel/exynos-modules/devicetree" />

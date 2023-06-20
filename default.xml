@@ -190,6 +190,7 @@
   <project name="kernel/google-modules/aoc-ipc" />
   <project name="kernel/google-modules/bluetooth/broadcom" />
   <project name="kernel/google-modules/bluetooth/qcom" />
+  <project name="kernel/google-modules/bluetooth/synaptics" />
   <project name="kernel/google-modules/bms" />
   <project name="kernel/google-modules/display" />
   <project name="kernel/google-modules/edgetpu" />

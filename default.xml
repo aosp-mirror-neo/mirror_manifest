@@ -399,6 +399,7 @@
   <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
+  <project name="platform/external/berkeley-softfloat-3" />
   <project name="platform/external/bison" />
   <project name="platform/external/blktrace" />
   <project name="platform/external/bloaty" />

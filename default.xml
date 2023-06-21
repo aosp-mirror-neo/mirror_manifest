@@ -982,6 +982,7 @@
   <project name="platform/external/python/packaging" />
   <project name="platform/external/python/parse" />
   <project name="platform/external/python/parse_type" />
+  <project name="platform/external/python/pexpect" />
   <project name="platform/external/python/pluggy" />
   <project name="platform/external/python/ply" />
   <project name="platform/external/python/portpicker" />

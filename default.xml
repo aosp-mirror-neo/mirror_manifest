@@ -778,6 +778,7 @@
   <project name="platform/external/libopus" />
   <project name="platform/external/libpalmrejection" />
   <project name="platform/external/libpcap" />
+  <project name="platform/external/libpciaccess" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
   <project name="platform/external/libppp" />

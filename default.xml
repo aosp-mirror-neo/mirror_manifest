@@ -183,6 +183,7 @@
   <project name="kernel/configs" />
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/devices/google/bluejay" />
+  <project name="kernel/devices/google/felix" />
   <project name="kernel/devices/google/lynx" />
   <project name="kernel/devices/google/tangorpro" />
   <project name="kernel/exynos" />

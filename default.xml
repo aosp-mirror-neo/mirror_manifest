@@ -78,6 +78,7 @@
   <project name="device/google/debugcable" />
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" />
+  <project name="device/google/felix" />
   <project name="device/google/fuchsia" />
   <project name="device/google/gs-common" />
   <project name="device/google/gs101" />

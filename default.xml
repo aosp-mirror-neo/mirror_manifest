@@ -925,6 +925,7 @@
   <project name="platform/external/pandora/bt-test-interfaces" />
   <project name="platform/external/pandora/mmi2grpc" />
   <project name="platform/external/parameter-framework" />
+  <project name="platform/external/patchelf" />
   <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />

@@ -387,6 +387,7 @@
   <project name="platform/external/astc-codec" />
   <project name="platform/external/astl" />
   <project name="platform/external/auto" />
+  <project name="platform/external/autoconf" />
   <project name="platform/external/autotest" />
   <project name="platform/external/avahi" />
   <project name="platform/external/avb" />

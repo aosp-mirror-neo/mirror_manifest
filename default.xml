@@ -397,6 +397,7 @@
   <project name="platform/external/bazelbuild-platforms" />
   <project name="platform/external/bazelbuild-remote-apis" />
   <project name="platform/external/bazelbuild-rules_android" />
+  <project name="platform/external/bazelbuild-rules_cc" />
   <project name="platform/external/bazelbuild-rules_fuzzing" />
   <project name="platform/external/bazelbuild-rules_go" />
   <project name="platform/external/bazelbuild-rules_java" />

@@ -2167,6 +2167,7 @@
   <project name="platform/prebuilts/module_sdk/Scheduling" />
   <project name="platform/prebuilts/module_sdk/SdkExtensions" />
   <project name="platform/prebuilts/module_sdk/StatsD" />
+  <project name="platform/prebuilts/module_sdk/ThreadNetwork" />
   <project name="platform/prebuilts/module_sdk/Uwb" />
   <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />

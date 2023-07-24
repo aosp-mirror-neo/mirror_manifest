@@ -1243,6 +1243,7 @@
   <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/pkcs1" />
   <project name="platform/external/rust/crates/pkcs8" />
+  <project name="platform/external/rust/crates/pkg-config" />
   <project name="platform/external/rust/crates/plotters" />
   <project name="platform/external/rust/crates/plotters-backend" />
   <project name="platform/external/rust/crates/plotters-svg" />

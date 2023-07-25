@@ -2445,6 +2445,7 @@
   <project name="toolchain/mclinker" />
   <project name="toolchain/mingw" />
   <project name="toolchain/mpc" />
+  <project name="toolchain/mpc-1.2.1" />
   <project name="toolchain/mpfr" />
   <project name="toolchain/mpfr-4.1.0" />
   <project name="toolchain/nasm" />

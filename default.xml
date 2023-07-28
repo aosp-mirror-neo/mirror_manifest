@@ -1079,6 +1079,7 @@
   <project name="platform/external/rust/crates/bstr" />
   <project name="platform/external/rust/crates/buddy_system_allocator" />
   <project name="platform/external/rust/crates/bytemuck" />
+  <project name="platform/external/rust/crates/bytemuck_derive" />
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/bzip2" />

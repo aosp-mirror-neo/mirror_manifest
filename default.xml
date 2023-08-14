@@ -771,6 +771,7 @@
   <project name="platform/external/libiota" />
   <project name="platform/external/libjpeg-turbo" />
   <project name="platform/external/libkmsxx" />
+  <project name="platform/external/liblc3" />
   <project name="platform/external/libldac" />
   <project name="platform/external/liblzf" />
   <project name="platform/external/libmicrohttpd" />

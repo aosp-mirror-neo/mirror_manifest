@@ -692,6 +692,7 @@
   <project name="platform/external/jetbrains/JetBrainsRuntime" />
   <project name="platform/external/jetbrains/intellij-kotlin" />
   <project name="platform/external/jetbrains/intellij-rust" />
+  <project name="platform/external/jetbrains/jcef" />
   <project name="platform/external/jetbrains/jdk8u" />
   <project name="platform/external/jetbrains/jdk8u_corba" />
   <project name="platform/external/jetbrains/jdk8u_hotspot" />

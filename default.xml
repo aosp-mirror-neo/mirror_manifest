@@ -1303,6 +1303,7 @@
   <project name="platform/external/rust/crates/serde_cbor" />
   <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
+  <project name="platform/external/rust/crates/serde_spanned" />
   <project name="platform/external/rust/crates/serde_test" />
   <project name="platform/external/rust/crates/serde_yaml" />
   <project name="platform/external/rust/crates/sharded-slab" />

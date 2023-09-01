@@ -1368,6 +1368,7 @@
   <project name="platform/external/rust/crates/version_check" />
   <project name="platform/external/rust/crates/vhost-device-vsock" />
   <project name="platform/external/rust/crates/virtio-drivers" />
+  <project name="platform/external/rust/crates/vmm-sys-util" />
   <project name="platform/external/rust/crates/vmm_vhost" />
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/vulkano" />

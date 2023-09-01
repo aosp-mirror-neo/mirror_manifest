@@ -1105,6 +1105,7 @@
   <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />
   <project name="platform/external/rust/crates/compiler_builtins" />
+  <project name="platform/external/rust/crates/config" />
   <project name="platform/external/rust/crates/const-oid" />
   <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/cortex-a" />

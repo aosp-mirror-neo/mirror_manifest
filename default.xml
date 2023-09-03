@@ -1381,6 +1381,7 @@
   <project name="platform/external/rust/crates/x509-cert" />
   <project name="platform/external/rust/crates/x509-parser" />
   <project name="platform/external/rust/crates/xml-rs" />
+  <project name="platform/external/rust/crates/yaml-rust" />
   <project name="platform/external/rust/crates/zerocopy" />
   <project name="platform/external/rust/crates/zerocopy-derive" />
   <project name="platform/external/rust/crates/zeroize" />

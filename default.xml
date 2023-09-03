@@ -1186,6 +1186,7 @@
   <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/jni" />
   <project name="platform/external/rust/crates/jni-sys" />
+  <project name="platform/external/rust/crates/json5" />
   <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />

@@ -1368,6 +1368,7 @@
   <project name="platform/external/rust/crates/uuid" />
   <project name="platform/external/rust/crates/version_check" />
   <project name="platform/external/rust/crates/vhost-device-vsock" />
+  <project name="platform/external/rust/crates/virtio-bindings" />
   <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/virtio-queue" />
   <project name="platform/external/rust/crates/virtio-vsock" />

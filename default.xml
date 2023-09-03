@@ -1287,6 +1287,7 @@
   <project name="platform/external/rust/crates/remain" />
   <project name="platform/external/rust/crates/remove_dir_all" />
   <project name="platform/external/rust/crates/ring" />
+  <project name="platform/external/rust/crates/ron" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-demangle" />
   <project name="platform/external/rust/crates/rustc-demangle-capi" />

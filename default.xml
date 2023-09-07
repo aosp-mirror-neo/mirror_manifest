@@ -1183,6 +1183,7 @@
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/inflector" />
+  <project name="platform/external/rust/crates/ini" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />

@@ -1413,6 +1413,7 @@
   <project name="platform/external/scudo" />
   <project name="platform/external/sdl2" />
   <project name="platform/external/sdl2_ttf" />
+  <project name="platform/external/sdv/vsomeip" />
   <project name="platform/external/seccomp-tests" />
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />

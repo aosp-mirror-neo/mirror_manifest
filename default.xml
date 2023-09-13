@@ -1383,6 +1383,7 @@
   <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/virtio-queue" />
   <project name="platform/external/rust/crates/virtio-vsock" />
+  <project name="platform/external/rust/crates/vm-memory" />
   <project name="platform/external/rust/crates/vmm-sys-util" />
   <project name="platform/external/rust/crates/vmm_vhost" />
   <project name="platform/external/rust/crates/vsock" />

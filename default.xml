@@ -1906,6 +1906,7 @@
   <project name="platform/packages/modules/Connectivity" />
   <project name="platform/packages/modules/CrashRecovery" />
   <project name="platform/packages/modules/Cronet" />
+  <project name="platform/packages/modules/DeviceLock" />
   <project name="platform/packages/modules/DnsResolver" />
   <project name="platform/packages/modules/ExtServices" />
   <project name="platform/packages/modules/GeoTZ" />

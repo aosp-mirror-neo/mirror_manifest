@@ -2200,6 +2200,7 @@
   <project name="platform/prebuilts/module_sdk/ConfigInfrastructure" />
   <project name="platform/prebuilts/module_sdk/Connectivity" />
   <project name="platform/prebuilts/module_sdk/CrashRecovery" />
+  <project name="platform/prebuilts/module_sdk/DeviceLock" />
   <project name="platform/prebuilts/module_sdk/HealthFitness" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />

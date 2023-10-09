@@ -1664,6 +1664,7 @@
   <project name="platform/hardware/google/graphics/common" />
   <project name="platform/hardware/google/graphics/gs101" />
   <project name="platform/hardware/google/graphics/gs201" />
+  <project name="platform/hardware/google/graphics/zuma" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />

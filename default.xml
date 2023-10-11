@@ -222,6 +222,7 @@
   <project name="kernel/google-modules/rotary-encoders" />
   <project name="kernel/google-modules/sensors/hall_sensor" />
   <project name="kernel/google-modules/soc/gs" />
+  <project name="kernel/google-modules/soc/msm" />
   <project name="kernel/google-modules/touch/common" />
   <project name="kernel/google-modules/touch/focaltech_touch" />
   <project name="kernel/google-modules/touch/fts_touch" />

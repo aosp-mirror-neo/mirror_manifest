@@ -287,6 +287,7 @@
   <project name="kernel/msm-modules/touch" />
   <project name="kernel/msm-modules/wlan" />
   <project name="kernel/msm-modules/wlan-fw-api" />
+  <project name="kernel/msm-modules/wlan-platform" />
   <project name="kernel/omap" />
   <project name="kernel/prebuilts/4.19/arm64" />
   <project name="kernel/prebuilts/5.10/arm64" />

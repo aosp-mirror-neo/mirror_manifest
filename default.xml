@@ -257,6 +257,7 @@
   <project name="kernel/msm-extra/camera-devicetree" />
   <project name="kernel/msm-extra/camera-kernel" />
   <project name="kernel/msm-extra/config" />
+  <project name="kernel/msm-extra/data-devicetree" />
   <project name="kernel/msm-extra/dataipa" />
   <project name="kernel/msm-extra/devicetree" />
   <project name="kernel/msm-extra/display-devicetree" />

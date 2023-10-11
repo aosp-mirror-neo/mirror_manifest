@@ -211,6 +211,7 @@
   <project name="kernel/google-modules/fingerprint/goodix" />
   <project name="kernel/google-modules/gpu" />
   <project name="kernel/google-modules/gxp/gs201" />
+  <project name="kernel/google-modules/i3c/exynos" />
   <project name="kernel/google-modules/lwis" />
   <project name="kernel/google-modules/misc" />
   <project name="kernel/google-modules/nfc" />

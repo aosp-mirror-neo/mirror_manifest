@@ -215,6 +215,7 @@
   <project name="kernel/google-modules/i3c/exynos" />
   <project name="kernel/google-modules/lwis" />
   <project name="kernel/google-modules/misc" />
+  <project name="kernel/google-modules/nanohub" />
   <project name="kernel/google-modules/nfc" />
   <project name="kernel/google-modules/power/reset" />
   <project name="kernel/google-modules/raviole-device" />

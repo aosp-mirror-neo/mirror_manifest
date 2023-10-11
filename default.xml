@@ -228,6 +228,7 @@
   <project name="kernel/google-modules/touch/sec_touch" />
   <project name="kernel/google-modules/touch/synaptics_touch" />
   <project name="kernel/google-modules/trusty" />
+  <project name="kernel/google-modules/typec" />
   <project name="kernel/google-modules/uwb" />
   <project name="kernel/google-modules/uwb-diags" />
   <project name="kernel/google-modules/video/gchips" />

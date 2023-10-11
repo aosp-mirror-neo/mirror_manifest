@@ -268,6 +268,7 @@
   <project name="kernel/msm-extra/nfc-devicetree" />
   <project name="kernel/msm-extra/video-devicetree" />
   <project name="kernel/msm-extra/video-driver" />
+  <project name="kernel/msm-extra/wlan-devicetree" />
   <project name="kernel/msm-modules" path="kernel/msm-modules.git" />
   <project name="kernel/msm-modules/data-kernel" />
   <project name="kernel/msm-modules/fts_touch" />

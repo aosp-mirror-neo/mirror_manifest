@@ -1386,6 +1386,7 @@
   <project name="platform/external/rust/crates/tinyvec" />
   <project name="platform/external/rust/crates/tinyvec_macros" />
   <project name="platform/external/rust/crates/tinyvec_string" />
+  <project name="platform/external/rust/crates/tls_codec" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/tokio-stream" />

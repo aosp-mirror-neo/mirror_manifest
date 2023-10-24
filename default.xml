@@ -381,6 +381,7 @@
   <project name="platform/external/adeb" />
   <project name="platform/external/adhd" />
   <project name="platform/external/adt-infra" />
+  <project name="platform/external/aehd" />
   <project name="platform/external/aes" />
   <project name="platform/external/alsa-lib" />
   <project name="platform/external/android-clat" />

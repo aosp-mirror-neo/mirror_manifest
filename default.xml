@@ -2365,6 +2365,7 @@
   <project name="platform/system/nfc" />
   <project name="platform/system/nvram" />
   <project name="platform/system/peripheralmanager" />
+  <project name="platform/system/secretkeeper" />
   <project name="platform/system/security" />
   <project name="platform/system/sepolicy" />
   <project name="platform/system/server_configurable_flags" />

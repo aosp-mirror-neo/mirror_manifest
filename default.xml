@@ -1985,6 +1985,7 @@
   <project name="platform/packages/modules/TestModule" />
   <project name="platform/packages/modules/Tethering" />
   <project name="platform/packages/modules/ThreadNetwork" />
+  <project name="platform/packages/modules/UprobeStats" />
   <project name="platform/packages/modules/Uwb" />
   <project name="platform/packages/modules/Virtualization" />
   <project name="platform/packages/modules/Wifi" />

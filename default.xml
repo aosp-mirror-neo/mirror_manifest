@@ -1141,6 +1141,7 @@
   <project name="platform/external/rust/crates/ciborium-ll" />
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
+  <project name="platform/external/rust/crates/clap_complete" />
   <project name="platform/external/rust/crates/clap_derive" />
   <project name="platform/external/rust/crates/clap_lex" />
   <project name="platform/external/rust/crates/cobs" />

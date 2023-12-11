@@ -1173,6 +1173,7 @@
   <project name="platform/external/rust/crates/der_derive" />
   <project name="platform/external/rust/crates/derive-getters" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
+  <project name="platform/external/rust/crates/displaydoc" />
   <project name="platform/external/rust/crates/dlmalloc" />
   <project name="platform/external/rust/crates/document-features" />
   <project name="platform/external/rust/crates/downcast-rs" />

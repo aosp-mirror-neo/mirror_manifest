@@ -1108,6 +1108,7 @@
   <project name="platform/external/rust/crates/argh_derive" />
   <project name="platform/external/rust/crates/argh_shared" />
   <project name="platform/external/rust/crates/ash" />
+  <project name="platform/external/rust/crates/asn1-rs" />
   <project name="platform/external/rust/crates/async-stream" />
   <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />

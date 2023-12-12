@@ -1177,6 +1177,7 @@
   <project name="platform/external/rust/crates/displaydoc" />
   <project name="platform/external/rust/crates/dlmalloc" />
   <project name="platform/external/rust/crates/document-features" />
+  <project name="platform/external/rust/crates/downcast" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
   <project name="platform/external/rust/crates/enumn" />

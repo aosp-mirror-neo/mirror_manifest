@@ -1213,6 +1213,7 @@
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/googletest" />
   <project name="platform/external/rust/crates/googletest_macro" />
+  <project name="platform/external/rust/crates/gpio-cdev" />
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />

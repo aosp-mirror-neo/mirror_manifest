@@ -1989,6 +1989,7 @@
   <project name="platform/packages/modules/OnDevicePersonalization" />
   <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/PermissionController" />
+  <project name="platform/packages/modules/Profiling" />
   <project name="platform/packages/modules/RemoteKeyProvisioning" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SEPolicy" />

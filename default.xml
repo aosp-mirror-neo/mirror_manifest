@@ -183,6 +183,7 @@
   <project name="kernel/arcvm-modules/common" />
   <project name="kernel/arm64" />
   <project name="kernel/build" />
+  <project name="kernel/build/bootstrap" />
   <project name="kernel/common" />
   <project name="kernel/common-modules/virtual-device" />
   <project name="kernel/common-patches" />

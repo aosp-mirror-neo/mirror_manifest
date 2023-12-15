@@ -981,6 +981,7 @@
   <project name="platform/external/pffft" />
   <project name="platform/external/piex" />
   <project name="platform/external/pigweed" />
+  <project name="platform/external/pigz" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
   <project name="platform/external/pixman" />

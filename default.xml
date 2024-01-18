@@ -435,6 +435,7 @@
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-apple_support" />
+  <project name="platform/external/bazelbuild-bazel-central-registry" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-platforms" />
   <project name="platform/external/bazelbuild-remote-apis" />

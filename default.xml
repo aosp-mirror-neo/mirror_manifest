@@ -2146,6 +2146,7 @@
   <project name="platform/prebuilts/fullsdk-darwin/build-tools/31.0.0" />
   <project name="platform/prebuilts/fullsdk-darwin/build-tools/32.0.0" />
   <project name="platform/prebuilts/fullsdk-darwin/build-tools/32.1.0" />
+  <project name="platform/prebuilts/fullsdk-darwin/cmdline-tools" />
   <project name="platform/prebuilts/fullsdk-darwin/platform-tools" />
   <project name="platform/prebuilts/fullsdk-darwin/tools" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools" />

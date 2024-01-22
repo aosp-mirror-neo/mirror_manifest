@@ -750,6 +750,7 @@
   <project name="platform/external/jetbrains/jdk8u_langtools" />
   <project name="platform/external/jetbrains/jdk8u_nashorn" />
   <project name="platform/external/jetbrains/kotlin" />
+  <project name="platform/external/jetpack-camera-app" />
   <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
   <project name="platform/external/jimfs" />

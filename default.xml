@@ -1308,6 +1308,7 @@
   <project name="platform/external/rust/crates/os_str_bytes" />
   <project name="platform/external/rust/crates/ouroboros" />
   <project name="platform/external/rust/crates/ouroboros_macro" />
+  <project name="platform/external/rust/crates/p9" />
   <project name="platform/external/rust/crates/p9_wire_format_derive" />
   <project name="platform/external/rust/crates/parking_lot" />
   <project name="platform/external/rust/crates/parking_lot_core" />

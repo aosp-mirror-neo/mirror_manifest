@@ -1399,6 +1399,7 @@
   <project name="platform/external/rust/crates/static_assertions" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
+  <project name="platform/external/rust/crates/strum" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
   <project name="platform/external/rust/crates/synstructure" />

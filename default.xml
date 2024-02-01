@@ -1277,6 +1277,7 @@
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
+  <project name="platform/external/rust/crates/memmap2" />
   <project name="platform/external/rust/crates/memoffset" />
   <project name="platform/external/rust/crates/merge" />
   <project name="platform/external/rust/crates/merge_derive" />

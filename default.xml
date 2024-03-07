@@ -241,6 +241,7 @@
   <project name="kernel/google-modules/typec" />
   <project name="kernel/google-modules/uwb" />
   <project name="kernel/google-modules/uwb-diags" />
+  <project name="kernel/google-modules/uwb/qorvo/dw3000" />
   <project name="kernel/google-modules/video/gchips" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" />

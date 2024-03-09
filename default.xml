@@ -350,6 +350,7 @@
   <project name="platform/build/pesto" />
   <project name="platform/build/release" />
   <project name="platform/build/soong" />
+  <project name="platform/build/trunk_release" />
   <project name="platform/compatibility/cdd" />
   <project name="platform/cts" />
   <project name="platform/dalvik" />

@@ -1110,6 +1110,7 @@
   <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/beto-rust" />
   <project name="platform/external/rust/crates/aarch64-paging" />
+  <project name="platform/external/rust/crates/acpi" />
   <project name="platform/external/rust/crates/addr2line" />
   <project name="platform/external/rust/crates/adler" />
   <project name="platform/external/rust/crates/ahash" />

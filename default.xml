@@ -1868,6 +1868,7 @@
   <project name="platform/packages/apps/Calendar" />
   <project name="platform/packages/apps/Camera" />
   <project name="platform/packages/apps/Camera2" />
+  <project name="platform/packages/apps/Car/BugReport" />
   <project name="platform/packages/apps/Car/Calendar" />
   <project name="platform/packages/apps/Car/CalendarPrebuilt" />
   <project name="platform/packages/apps/Car/Cluster" />

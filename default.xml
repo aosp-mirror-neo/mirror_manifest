@@ -1145,6 +1145,7 @@
   <project name="platform/external/rust/crates/bincode" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bindgen-cli" />
+  <project name="platform/external/rust/crates/bit_field" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/bitreader" />
   <project name="platform/external/rust/crates/bstr" />

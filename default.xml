@@ -1389,6 +1389,7 @@
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/rustc_version" />
   <project name="platform/external/rust/crates/rusticata-macros" />
+  <project name="platform/external/rust/crates/rustix" />
   <project name="platform/external/rust/crates/rustversion" />
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/same-file" />

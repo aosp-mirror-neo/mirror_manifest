@@ -1267,6 +1267,7 @@
   <project name="platform/external/rust/crates/http" />
   <project name="platform/external/rust/crates/httparse" />
   <project name="platform/external/rust/crates/icu_capi" />
+  <project name="platform/external/rust/crates/ident_case" />
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/inflector" />

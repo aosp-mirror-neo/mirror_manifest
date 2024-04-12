@@ -1483,6 +1483,7 @@
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
   <project name="platform/external/rust/crates/uniffi" />
+  <project name="platform/external/rust/crates/uniffi_checksum_derive" />
   <project name="platform/external/rust/crates/unsafe-libyaml" />
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />

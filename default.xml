@@ -1310,6 +1310,7 @@
   <project name="platform/external/rust/crates/miette-derive" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
+  <project name="platform/external/rust/crates/mls-rs" />
   <project name="platform/external/rust/crates/mls-rs-codec" />
   <project name="platform/external/rust/crates/mls-rs-codec-derive" />
   <project name="platform/external/rust/crates/mls-rs-core" />

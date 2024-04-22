@@ -1887,6 +1887,7 @@
   <project name="platform/ndk" />
   <project name="platform/packages/apps/AccountsAndSyncSettings" />
   <project name="platform/packages/apps/AlarmClock" />
+  <project name="platform/packages/apps/AvatarPicker" />
   <project name="platform/packages/apps/BasicSmsReceiver" />
   <project name="platform/packages/apps/Benchmark" />
   <project name="platform/packages/apps/Bluetooth" />

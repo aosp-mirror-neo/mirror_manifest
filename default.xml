@@ -649,6 +649,7 @@
   <project name="platform/external/go-subcommands" />
   <project name="platform/external/golang-glog" />
   <project name="platform/external/golang-groupcache" />
+  <project name="platform/external/golang-klauspost-compress" />
   <project name="platform/external/golang-pkg-xattr" />
   <project name="platform/external/golang-protobuf" />
   <project name="platform/external/golang-x-net" />

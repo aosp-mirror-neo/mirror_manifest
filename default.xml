@@ -50,6 +50,7 @@
   <project name="device/google/accessory/adk2012_demo" />
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
+  <project name="device/google/akita" />
   <project name="device/google/atv" />
   <project name="device/google/barbet" />
   <project name="device/google/barbet-kernel" />

@@ -453,6 +453,7 @@
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-platforms" />
   <project name="platform/external/bazelbuild-remote-apis" />
+  <project name="platform/external/bazelbuild-remote-apis-sdks" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_cc" />
   <project name="platform/external/bazelbuild-rules_fuzzing" />

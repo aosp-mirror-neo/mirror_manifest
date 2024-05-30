@@ -240,6 +240,7 @@
   <project name="kernel/google-modules/touch/goodix_touch" />
   <project name="kernel/google-modules/touch/himax_touch" />
   <project name="kernel/google-modules/touch/novatek_touch" />
+  <project name="kernel/google-modules/touch/parade_touch" />
   <project name="kernel/google-modules/touch/sec_touch" />
   <project name="kernel/google-modules/touch/synaptics_touch" />
   <project name="kernel/google-modules/trusty" />

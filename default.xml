@@ -384,6 +384,7 @@
   <project name="platform/external/Mako" />
   <project name="platform/external/Microsoft-GSL" />
   <project name="platform/external/Microsoft-unittest-cpp" />
+  <project name="platform/external/OpenCL-CLHPP" />
   <project name="platform/external/OpenCL-CTS" />
   <project name="platform/external/OpenCL-Headers" />
   <project name="platform/external/OpenCL-ICD-Loader" />

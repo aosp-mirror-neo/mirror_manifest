@@ -1161,6 +1161,7 @@
   <project name="platform/external/rust/crates/atomic-polyfill" />
   <project name="platform/external/rust/crates/atty" />
   <project name="platform/external/rust/crates/axum" />
+  <project name="platform/external/rust/crates/axum-core" />
   <project name="platform/external/rust/crates/base64" />
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bincode" />

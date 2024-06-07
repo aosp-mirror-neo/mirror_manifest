@@ -1503,6 +1503,7 @@
   <project name="platform/external/rust/crates/toml" />
   <project name="platform/external/rust/crates/toml_datetime" />
   <project name="platform/external/rust/crates/toml_edit" />
+  <project name="platform/external/rust/crates/tonic" />
   <project name="platform/external/rust/crates/tracing" />
   <project name="platform/external/rust/crates/tracing-attributes" />
   <project name="platform/external/rust/crates/tracing-core" />

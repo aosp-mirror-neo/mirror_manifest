@@ -1288,6 +1288,7 @@
   <project name="platform/external/rust/crates/http-body" />
   <project name="platform/external/rust/crates/httparse" />
   <project name="platform/external/rust/crates/httpdate" />
+  <project name="platform/external/rust/crates/hyper" />
   <project name="platform/external/rust/crates/hyper-timeout" />
   <project name="platform/external/rust/crates/icu_capi" />
   <project name="platform/external/rust/crates/ident_case" />

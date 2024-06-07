@@ -1324,6 +1324,7 @@
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
+  <project name="platform/external/rust/crates/matchit" />
   <project name="platform/external/rust/crates/maybe-async" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memmap2" />

@@ -2118,6 +2118,7 @@
   <project name="platform/packages/providers/BookmarkProvider" />
   <project name="platform/packages/providers/CalendarProvider" />
   <project name="platform/packages/providers/CallLogProvider" />
+  <project name="platform/packages/providers/ContactsKeysProvider" />
   <project name="platform/packages/providers/ContactsProvider" />
   <project name="platform/packages/providers/DownloadProvider" />
   <project name="platform/packages/providers/DrmProvider" />

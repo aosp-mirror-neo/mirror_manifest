@@ -632,6 +632,7 @@
   <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
   <project name="platform/external/flashbench" />
+  <project name="platform/external/flashrom" />
   <project name="platform/external/flatbuffers" />
   <project name="platform/external/flex" />
   <project name="platform/external/fmtlib" />

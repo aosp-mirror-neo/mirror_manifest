@@ -2179,6 +2179,7 @@
   <project name="platform/prebuilts/android-emulator-build/system-images" />
   <project name="platform/prebuilts/androidx/exoplayer" />
   <project name="platform/prebuilts/androidx/external" />
+  <project name="platform/prebuilts/androidx/ink" />
   <project name="platform/prebuilts/androidx/internal" />
   <project name="platform/prebuilts/androidx/konan" />
   <project name="platform/prebuilts/androidx/studio" />

@@ -2459,6 +2459,7 @@
   <project name="platform/system/connectivity/wifilogd" />
   <project name="platform/system/core" />
   <project name="platform/system/crash_reporter" />
+  <project name="platform/system/desktop/adb-dbc-bridge" />
   <project name="platform/system/desktop/ec" />
   <project name="platform/system/dmesgd" />
   <project name="platform/system/extras" />

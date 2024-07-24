@@ -955,6 +955,7 @@
   <project name="platform/external/n2" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
+  <project name="platform/external/nanoprintf" />
   <project name="platform/external/nasm" />
   <project name="platform/external/naver-fonts" />
   <project name="platform/external/ncurses" />

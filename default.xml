@@ -2710,6 +2710,7 @@
   <project name="toolchain/prebuilts/ndk/r24" />
   <project name="toolchain/prebuilts/ndk/r25" />
   <project name="toolchain/prebuilts/ndk/r26" />
+  <project name="toolchain/prebuilts/ndk/r27" />
   <project name="toolchain/prebuilts/ndk/releases" />
   <project name="toolchain/prebuilts/sysroot/platform/riscv64-linux-android" />
   <project name="toolchain/python" />

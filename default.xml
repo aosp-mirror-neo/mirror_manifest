@@ -2697,6 +2697,7 @@
   <project name="toolchain/prebuilts/ndk-darwin/r21" />
   <project name="toolchain/prebuilts/ndk-darwin/r23" />
   <project name="toolchain/prebuilts/ndk-darwin/r25" />
+  <project name="toolchain/prebuilts/ndk-darwin/r27" />
   <project name="toolchain/prebuilts/ndk/r13" />
   <project name="toolchain/prebuilts/ndk/r14" />
   <project name="toolchain/prebuilts/ndk/r15" />

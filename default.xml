@@ -656,6 +656,7 @@
   <project name="platform/external/gfxstream-protocols" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
+  <project name="platform/external/gmmlib" />
   <project name="platform/external/gmock" />
   <project name="platform/external/go-cmp" />
   <project name="platform/external/go-creachadair-shell" />

@@ -738,6 +738,7 @@
   <project name="platform/external/image_io" />
   <project name="platform/external/ims" />
   <project name="platform/external/ink-stroke-modeler" />
+  <project name="platform/external/intel-media-driver" />
   <project name="platform/external/iosched" />
   <project name="platform/external/iperf3" />
   <project name="platform/external/iproute2" />

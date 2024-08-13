@@ -1250,6 +1250,7 @@
   <project name="platform/external/rust/crates/enumn" />
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/epoll" />
+  <project name="platform/external/rust/crates/equivalent" />
   <project name="platform/external/rust/crates/errno" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />

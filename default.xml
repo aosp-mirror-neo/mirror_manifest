@@ -717,6 +717,7 @@
   <project name="platform/external/gsoap" />
   <project name="platform/external/gson" />
   <project name="platform/external/gtest" />
+  <project name="platform/external/gturri-jISO8601" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />
   <project name="platform/external/gvdb" />

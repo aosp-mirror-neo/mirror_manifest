@@ -232,6 +232,7 @@
   <project name="kernel/google-modules/edgetpu/janeiro" />
   <project name="kernel/google-modules/fingerprint/fpc" />
   <project name="kernel/google-modules/fingerprint/goodix" />
+  <project name="kernel/google-modules/fingerprint/qcom/qfs4008" />
   <project name="kernel/google-modules/gpu" />
   <project name="kernel/google-modules/gxp/gs201" />
   <project name="kernel/google-modules/i3c/exynos" />

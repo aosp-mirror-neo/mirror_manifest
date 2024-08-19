@@ -66,6 +66,7 @@
   <project name="device/google/bramble" />
   <project name="device/google/bramble-kernel" />
   <project name="device/google/bramble-sepolicy" />
+  <project name="device/google/caimito" />
   <project name="device/google/common/etm" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />

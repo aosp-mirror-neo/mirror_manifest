@@ -271,6 +271,7 @@
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4383" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4390" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4398" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" />

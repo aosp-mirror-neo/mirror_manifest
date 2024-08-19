@@ -129,6 +129,7 @@
   <project name="device/google/zuma" />
   <project name="device/google/zuma-sepolicy" />
   <project name="device/google/zumapro" />
+  <project name="device/google/zumapro-sepolicy" />
   <project name="device/google_car" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />

@@ -201,6 +201,7 @@
   <project name="kernel/cuttlefish-modules" />
   <project name="kernel/devices/google/akita" />
   <project name="kernel/devices/google/bluejay" />
+  <project name="kernel/devices/google/caimito" />
   <project name="kernel/devices/google/eos" />
   <project name="kernel/devices/google/felix" />
   <project name="kernel/devices/google/lynx" />

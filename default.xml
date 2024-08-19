@@ -455,6 +455,7 @@
   <project name="platform/external/autotest" />
   <project name="platform/external/avahi" />
   <project name="platform/external/avb" />
+  <project name="platform/external/aws-crt-java" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-contrib-bazel_features" />
   <project name="platform/external/bazel-skylib" />

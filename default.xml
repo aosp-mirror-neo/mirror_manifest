@@ -208,6 +208,7 @@
   <project name="kernel/devices/google/lynx" />
   <project name="kernel/devices/google/p11" />
   <project name="kernel/devices/google/tangorpro" />
+  <project name="kernel/devices/google/zuma" />
   <project name="kernel/exynos" />
   <project name="kernel/exynos-modules/config" />
   <project name="kernel/exynos-modules/devicetree" />

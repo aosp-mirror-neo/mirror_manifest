@@ -2794,6 +2794,7 @@
   <project name="trusty/lk/trusty" />
   <project name="trusty/manifest" />
   <project name="trusty/prebuilts/aosp" />
+  <project name="trusty/user/desktop" />
   <project name="trusty/vendor/google/aosp" />
 
 </manifest>

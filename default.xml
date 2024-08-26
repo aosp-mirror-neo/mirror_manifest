@@ -69,6 +69,7 @@
   <project name="device/google/caimito" />
   <project name="device/google/caimito-kernels/6.1" />
   <project name="device/google/caimito-sepolicy" />
+  <project name="device/google/comet" />
   <project name="device/google/common/etm" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />

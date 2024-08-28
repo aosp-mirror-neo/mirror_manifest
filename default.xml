@@ -1396,6 +1396,7 @@
   <project name="platform/external/rust/crates/num-traits" />
   <project name="platform/external/rust/crates/num_cpus" />
   <project name="platform/external/rust/crates/num_enum" />
+  <project name="platform/external/rust/crates/num_enum_derive" />
   <project name="platform/external/rust/crates/object" />
   <project name="platform/external/rust/crates/octets" />
   <project name="platform/external/rust/crates/oid-registry" />

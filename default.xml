@@ -719,6 +719,7 @@
   <project name="platform/external/google-benchmark" />
   <project name="platform/external/google-breakpad" />
   <project name="platform/external/google-cloud-go" />
+  <project name="platform/external/google-cloud-java" />
   <project name="platform/external/google-diff-match-patch" />
   <project name="platform/external/google-fonts/arbutus-slab" />
   <project name="platform/external/google-fonts/arvo" />

@@ -131,6 +131,7 @@
   <project name="device/google/taimen" />
   <project name="device/google/tangorpro" />
   <project name="device/google/tangorpro-kernel" />
+  <project name="device/google/tangorpro-kernels/5.10" />
   <project name="device/google/tangorpro-sepolicy" />
   <project name="device/google/trout" />
   <project name="device/google/vrservices" />

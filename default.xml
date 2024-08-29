@@ -2015,6 +2015,7 @@
   <project name="platform/packages/apps/Car/CalendarPrebuilt" />
   <project name="platform/packages/apps/Car/Cluster" />
   <project name="platform/packages/apps/Car/CompanionDeviceSupport" />
+  <project name="platform/packages/apps/Car/DataSubscriptionReference" />
   <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
   <project name="platform/packages/apps/Car/DialerPrebuilt" />

@@ -213,6 +213,7 @@
   <project name="kernel/devices/google/gs201" />
   <project name="kernel/devices/google/lynx" />
   <project name="kernel/devices/google/p11" />
+  <project name="kernel/devices/google/pantah" />
   <project name="kernel/devices/google/tangorpro" />
   <project name="kernel/devices/google/zuma" />
   <project name="kernel/devices/google/zumapro" />

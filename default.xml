@@ -60,6 +60,7 @@
   <project name="device/google/barbet-sepolicy" />
   <project name="device/google/bluejay" />
   <project name="device/google/bluejay-kernel" />
+  <project name="device/google/bluejay-kernels/5.10" />
   <project name="device/google/bluejay-sepolicy" />
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" />

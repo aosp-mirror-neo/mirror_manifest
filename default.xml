@@ -209,6 +209,7 @@
   <project name="kernel/devices/google/common" />
   <project name="kernel/devices/google/eos" />
   <project name="kernel/devices/google/felix" />
+  <project name="kernel/devices/google/gs101" />
   <project name="kernel/devices/google/lynx" />
   <project name="kernel/devices/google/p11" />
   <project name="kernel/devices/google/tangorpro" />

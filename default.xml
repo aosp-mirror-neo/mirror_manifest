@@ -1349,6 +1349,7 @@
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libbpf-rs" />
+  <project name="platform/external/rust/crates/libbpf-sys" />
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/libfuzzer-sys" />
   <project name="platform/external/rust/crates/libloading" />

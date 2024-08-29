@@ -379,6 +379,7 @@
   <project name="platform/bbuildbot_config" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
+  <project name="platform/bootable/deprecated-ota" />
   <project name="platform/bootable/diskinstaller" />
   <project name="platform/bootable/libbootloader" />
   <project name="platform/bootable/recovery" />

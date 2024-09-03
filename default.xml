@@ -194,7 +194,6 @@
   <project name="device/ti/beagle-x15-kernel" />
   <project name="device/ti/bootloader/uboot" />
   <project name="device/ti/panda" />
-  <project name="ernel/devices/google/eos" />
   <project name="kernel/amlogic-tv-modules/dhd-driver" />
   <project name="kernel/amlogic-tv-modules/mali-driver" />
   <project name="kernel/amlogic-tv-modules/media_modules" />

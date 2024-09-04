@@ -2507,6 +2507,7 @@
   <project name="platform/sdk" />
   <project name="platform/smaratorg" />
   <project name="platform/superproject" />
+  <project name="platform/system/acpi/bert_collector" />
   <project name="platform/system/adb" />
   <project name="platform/system/apex" />
   <project name="platform/system/ashmemd" />

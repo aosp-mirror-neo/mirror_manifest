@@ -1151,6 +1151,7 @@
   <project name="platform/external/python/pycparser" />
   <project name="platform/external/python/pyee" />
   <project name="platform/external/python/pyfakefs" />
+  <project name="platform/external/python/pyhsslms" />
   <project name="platform/external/python/pylint" />
   <project name="platform/external/python/pyopenssl" />
   <project name="platform/external/python/pyparsing" />

@@ -1105,6 +1105,7 @@
   <project name="platform/external/python/cryptography" />
   <project name="platform/external/python/dateutil" />
   <project name="platform/external/python/dill" />
+  <project name="platform/external/python/ecdsa" />
   <project name="platform/external/python/enum" />
   <project name="platform/external/python/enum34" />
   <project name="platform/external/python/funcsigs" />

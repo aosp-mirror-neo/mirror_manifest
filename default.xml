@@ -1126,6 +1126,7 @@
   <project name="platform/external/python/httplib2" />
   <project name="platform/external/python/ipaddress" />
   <project name="platform/external/python/jinja" />
+  <project name="platform/external/python/liboqs-python" />
   <project name="platform/external/python/mako" />
   <project name="platform/external/python/markupsafe" />
   <project name="platform/external/python/matplotlib" />

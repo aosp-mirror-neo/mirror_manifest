@@ -2817,6 +2817,7 @@
   <project name="tools/platform-compat" />
   <project name="tools/presubmit-automerger/test1" />
   <project name="tools/repo" />
+  <project name="trusty/app/authmgr" />
   <project name="trusty/app/avb" />
   <project name="trusty/app/cast-auth" />
   <project name="trusty/app/confirmationui" />

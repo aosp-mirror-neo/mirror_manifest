@@ -1745,6 +1745,7 @@
   <project name="platform/external/valgrind" />
   <project name="platform/external/vboot_reference" />
   <project name="platform/external/virglrenderer" />
+  <project name="platform/external/virtio-media" />
   <project name="platform/external/vixl" />
   <project name="platform/external/vm_tools/p9" />
   <project name="platform/external/vogar" />

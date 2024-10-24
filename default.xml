@@ -1374,6 +1374,7 @@
   <project name="platform/external/rust/crates/ini" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
+  <project name="platform/external/rust/crates/ipnet" />
   <project name="platform/external/rust/crates/itertools" />
   <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/jni" />

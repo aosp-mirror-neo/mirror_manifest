@@ -2066,6 +2066,7 @@
   <project name="platform/packages/apps/Car/RadioPrebuilt" />
   <project name="platform/packages/apps/Car/References" />
   <project name="platform/packages/apps/Car/RotaryController" />
+  <project name="platform/packages/apps/Car/RotaryImePrebuilt" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/SettingsIntelligence" />
   <project name="platform/packages/apps/Car/Stream" />

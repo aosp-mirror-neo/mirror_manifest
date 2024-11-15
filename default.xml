@@ -1408,6 +1408,7 @@
   <project name="platform/external/rust/crates/lz4_flex" />
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
+  <project name="platform/external/rust/crates/maplit" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/matchit" />
   <project name="platform/external/rust/crates/maybe-async" />

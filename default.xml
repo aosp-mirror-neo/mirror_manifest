@@ -1615,6 +1615,7 @@
   <project name="platform/external/rust/crates/uefi" />
   <project name="platform/external/rust/crates/uefi-macros" />
   <project name="platform/external/rust/crates/uefi-raw" />
+  <project name="platform/external/rust/crates/uguid" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-ident" />
   <project name="platform/external/rust/crates/unicode-normalization" />

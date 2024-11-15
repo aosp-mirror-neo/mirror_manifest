@@ -2286,6 +2286,7 @@
   <project name="platform/prebuilts/androidx/konan" />
   <project name="platform/prebuilts/androidx/studio" />
   <project name="platform/prebuilts/androidx/traceprocessor" />
+  <project name="platform/prebuilts/androidx/xr" />
   <project name="platform/prebuilts/asuite" />
   <project name="platform/prebuilts/au-generator" />
   <project name="platform/prebuilts/bazel/common" />

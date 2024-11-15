@@ -1610,6 +1610,7 @@
   <project name="platform/external/rust/crates/tungstenite" />
   <project name="platform/external/rust/crates/twox-hash" />
   <project name="platform/external/rust/crates/ucd-trie" />
+  <project name="platform/external/rust/crates/ucs2" />
   <project name="platform/external/rust/crates/uds" />
   <project name="platform/external/rust/crates/uefi" />
   <project name="platform/external/rust/crates/uefi-macros" />

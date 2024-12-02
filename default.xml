@@ -543,6 +543,7 @@
   <project name="platform/external/cherry" />
   <project name="platform/external/chromite" />
   <project name="platform/external/chromium" />
+  <project name="platform/external/chromium-crossbench" />
   <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
   <project name="platform/external/chromium-webview" />

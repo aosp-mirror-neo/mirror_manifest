@@ -601,6 +601,7 @@
   <project name="platform/external/compose-hero-benchmarks/poxedex-compose" />
   <project name="platform/external/connectedappssdk" />
   <project name="platform/external/conscrypt" />
+  <project name="platform/external/coreboot" />
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
   <project name="platform/external/crcalc" />

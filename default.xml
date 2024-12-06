@@ -120,6 +120,7 @@
   <project name="device/google/raviole" />
   <project name="device/google/raviole-kernel" />
   <project name="device/google/raviole-kernels/5.10" />
+  <project name="device/google/raviole-kernels/6.1" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-kernel" />
   <project name="device/google/redbull-sepolicy" />

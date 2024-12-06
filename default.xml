@@ -106,6 +106,7 @@
   <project name="device/google/lynx" />
   <project name="device/google/lynx-kernel" />
   <project name="device/google/lynx-kernels/5.10" />
+  <project name="device/google/lynx-kernels/6.1" />
   <project name="device/google/lynx-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" />

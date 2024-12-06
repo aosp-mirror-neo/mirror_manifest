@@ -114,6 +114,7 @@
   <project name="device/google/pantah" />
   <project name="device/google/pantah-kernel" />
   <project name="device/google/pantah-kernels/5.10" />
+  <project name="device/google/pantah-kernels/6.1" />
   <project name="device/google/pantah-sepolicy" />
   <project name="device/google/phantasm" />
   <project name="device/google/raviole" />

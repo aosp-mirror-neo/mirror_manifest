@@ -130,6 +130,7 @@
   <project name="device/google/shusky" />
   <project name="device/google/shusky-kernel" />
   <project name="device/google/shusky-kernels/5.15" />
+  <project name="device/google/shusky-kernels/6.1" />
   <project name="device/google/shusky-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" />

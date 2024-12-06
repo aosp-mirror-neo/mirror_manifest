@@ -53,6 +53,7 @@
   <project name="device/google/akita" />
   <project name="device/google/akita-kernel" />
   <project name="device/google/akita-kernels/5.15" />
+  <project name="device/google/akita-kernels/6.1" />
   <project name="device/google/akita-sepolicy" />
   <project name="device/google/atv" />
   <project name="device/google/barbet" />

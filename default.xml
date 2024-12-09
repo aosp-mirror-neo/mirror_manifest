@@ -1781,6 +1781,7 @@
   <project name="platform/external/usrsctp" />
   <project name="platform/external/utf8proc" />
   <project name="platform/external/uwb" />
+  <project name="platform/external/v4l-utils" />
   <project name="platform/external/v4l2_codec2" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />

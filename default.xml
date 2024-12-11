@@ -2519,6 +2519,7 @@
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
   <project name="platform/prebuilts/module_sdk/MediaProvider" />
+  <project name="platform/prebuilts/module_sdk/NeuralNetworks" />
   <project name="platform/prebuilts/module_sdk/Nfc" />
   <project name="platform/prebuilts/module_sdk/OnDevicePersonalization" />
   <project name="platform/prebuilts/module_sdk/Permission" />

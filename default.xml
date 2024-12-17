@@ -521,6 +521,7 @@
   <project name="platform/external/bazelbuild-rules_pkg" />
   <project name="platform/external/bazelbuild-rules_python" />
   <project name="platform/external/bazelbuild-rules_rust" />
+  <project name="platform/external/bazelbuild-rules_shell" />
   <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />

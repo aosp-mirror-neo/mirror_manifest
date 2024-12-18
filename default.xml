@@ -2603,6 +2603,7 @@
   <project name="platform/system/cros-codecs" />
   <project name="platform/system/desktop/adb-dbc-bridge" />
   <project name="platform/system/desktop/ec" />
+  <project name="platform/system/desktop/intel-pmt" />
   <project name="platform/system/desktop/security" />
   <project name="platform/system/dmesgd" />
   <project name="platform/system/extras" />

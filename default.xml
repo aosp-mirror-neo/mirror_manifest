@@ -617,6 +617,7 @@
   <project name="platform/external/coreboot" />
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
+  <project name="platform/external/crashpad" />
   <project name="platform/external/crcalc" />
   <project name="platform/external/cronet" />
   <project name="platform/external/cros/system_api" />

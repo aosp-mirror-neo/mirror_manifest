@@ -2609,6 +2609,7 @@
   <project name="platform/system/crash_reporter" />
   <project name="platform/system/cros-codecs" />
   <project name="platform/system/desktop/adb-dbc-bridge" />
+  <project name="platform/system/desktop/ap" />
   <project name="platform/system/desktop/ec" />
   <project name="platform/system/desktop/fingerprint" />
   <project name="platform/system/desktop/intel-pmt" />

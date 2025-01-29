@@ -1033,6 +1033,7 @@
   <project name="platform/external/moshi" />
   <project name="platform/external/mp4parser" />
   <project name="platform/external/mp4v2" />
+  <project name="platform/external/mpdecimal" />
   <project name="platform/external/mpg123" />
   <project name="platform/external/ms-tpm-20-ref" />
   <project name="platform/external/mtools" />

@@ -599,6 +599,7 @@
   <project name="platform/external/chromium_org/tools/grit" />
   <project name="platform/external/chromium_org/tools/gyp" />
   <project name="platform/external/chromium_org/v8" />
+  <project name="platform/external/chromiumos-config" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/clang" />
   <project name="platform/external/clang-tools-extra" />

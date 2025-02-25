@@ -1770,6 +1770,7 @@
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tink" />
+  <project name="platform/external/tink-java" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinyalsa_new" />
   <project name="platform/external/tinycompress" />

@@ -2664,6 +2664,7 @@
   <project name="platform/system/nvram" />
   <project name="platform/system/peripheralmanager" />
   <project name="platform/system/secretkeeper" />
+  <project name="platform/system/secure_element" />
   <project name="platform/system/security" />
   <project name="platform/system/see/authmgr" />
   <project name="platform/system/sepolicy" />

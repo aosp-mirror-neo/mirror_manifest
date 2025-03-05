@@ -279,6 +279,7 @@
   <project name="kernel/google-modules/sound/mcu" />
   <project name="kernel/google-modules/sound/mcu_mic_codec" />
   <project name="kernel/google-modules/touch/common" />
+  <project name="kernel/google-modules/touch/common_wearable" />
   <project name="kernel/google-modules/touch/focaltech_touch" />
   <project name="kernel/google-modules/touch/fts_touch" />
   <project name="kernel/google-modules/touch/goodix_touch" />

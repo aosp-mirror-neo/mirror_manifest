@@ -1959,6 +1959,7 @@
   <project name="platform/hardware/google/atv/refDesignRcu/telink" />
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />
+  <project name="platform/hardware/google/display/common" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/gchips" />
   <project name="platform/hardware/google/gfxstream" />

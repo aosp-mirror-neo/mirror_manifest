@@ -255,6 +255,7 @@
   <project name="kernel/google-modules/display" />
   <project name="kernel/google-modules/display/common" />
   <project name="kernel/google-modules/display/panels/caimito" />
+  <project name="kernel/google-modules/display/panels/tegu" />
   <project name="kernel/google-modules/display/samsung" />
   <project name="kernel/google-modules/display/watch/mcu-offload" />
   <project name="kernel/google-modules/edgetpu" />

@@ -217,6 +217,7 @@
   <project name="kernel/common" />
   <project name="kernel/common-modules/binder" />
   <project name="kernel/common-modules/trusty" />
+  <project name="kernel/common-modules/virtio-msg" />
   <project name="kernel/common-modules/virtual-device" />
   <project name="kernel/common-patches" />
   <project name="kernel/configs" />

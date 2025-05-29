@@ -1032,6 +1032,7 @@
   <project name="platform/external/minigbm" />
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
+  <project name="platform/external/ml_dtypes" />
   <project name="platform/external/mmc-utils" />
   <project name="platform/external/mobile-data-download" />
   <project name="platform/external/mobly-bundled-snippets" />
@@ -1806,6 +1807,7 @@
   <project name="platform/external/ukey2" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
+  <project name="platform/external/usb-ids" />
   <project name="platform/external/usrsctp" />
   <project name="platform/external/utf8proc" />
   <project name="platform/external/uwb" />

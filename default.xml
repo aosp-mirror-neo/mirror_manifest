@@ -515,6 +515,7 @@
   <project name="platform/external/aws-sdk-java-v2" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-contrib-bazel_features" />
+  <project name="platform/external/bazel-contrib-rules_devicetree" />
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-apple_support" />
   <project name="platform/external/bazelbuild-bazel-central-registry" />

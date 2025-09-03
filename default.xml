@@ -1043,6 +1043,7 @@
   <project name="platform/external/mockito" />
   <project name="platform/external/mockito-kotlin" />
   <project name="platform/external/mockwebserver" />
+  <project name="platform/external/modelcontextprotocol/kotlin-sdk" />
   <project name="platform/external/modp_b64" />
   <project name="platform/external/moltenvk" />
   <project name="platform/external/moshi" />

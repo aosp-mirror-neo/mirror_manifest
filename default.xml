@@ -2773,6 +2773,7 @@
   <project name="platform/tools/external_updater" />
   <project name="platform/tools/google_prebuilts/studio/sdk/remote" />
   <project name="platform/tools/gpu" />
+  <project name="platform/tools/gpu-profiler/idea" />
   <project name="platform/tools/gradle" />
   <project name="platform/tools/gradle-recipes" />
   <project name="platform/tools/idea" />

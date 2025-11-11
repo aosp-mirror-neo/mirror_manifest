@@ -2183,6 +2183,7 @@
   <project name="platform/packages/apps/EmergencyInfo" />
   <project name="platform/packages/apps/ExactCalculator" />
   <project name="platform/packages/apps/Exchange" />
+  <project name="platform/packages/apps/EyeDropper" />
   <project name="platform/packages/apps/FMRadio" />
   <project name="platform/packages/apps/Gallery" />
   <project name="platform/packages/apps/Gallery2" />

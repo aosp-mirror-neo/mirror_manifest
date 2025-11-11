@@ -560,6 +560,7 @@
   <project name="platform/external/bvb" />
   <project name="platform/external/bzip2" />
   <project name="platform/external/c-ares" />
+  <project name="platform/external/cairo" />
   <project name="platform/external/caliper" />
   <project name="platform/external/capstone" />
   <project name="platform/external/catch2" />

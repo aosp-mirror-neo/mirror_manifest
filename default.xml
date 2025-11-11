@@ -894,6 +894,7 @@
   <project name="platform/external/jsr330" />
   <project name="platform/external/junit" />
   <project name="platform/external/junit-params" />
+  <project name="platform/external/jxmpp" />
   <project name="platform/external/kernel-headers" />
   <project name="platform/external/kmod" />
   <project name="platform/external/kotlin-compose-compiler" />

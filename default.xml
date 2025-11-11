@@ -623,6 +623,7 @@
   <project name="platform/external/cldr" />
   <project name="platform/external/clearsilver" />
   <project name="platform/external/clpeak" />
+  <project name="platform/external/clspv" />
   <project name="platform/external/cmake" />
   <project name="platform/external/cmockery" />
   <project name="platform/external/cn-cbor" />

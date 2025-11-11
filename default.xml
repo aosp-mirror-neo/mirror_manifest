@@ -576,6 +576,7 @@
   <project name="platform/external/chromium-crossbench" />
   <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
+  <project name="platform/external/chromium-web-tests" />
   <project name="platform/external/chromium-webview" />
   <project name="platform/external/chromium_org" path="platform/external/chromium_org.git" />
   <project name="platform/external/chromium_org/sdch/open-vcdiff" />

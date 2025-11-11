@@ -1246,6 +1246,7 @@
   <project name="platform/external/python/uritemplates" />
   <project name="platform/external/python/watchdog" />
   <project name="platform/external/pytorch" />
+  <project name="platform/external/qdl" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />

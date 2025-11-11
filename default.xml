@@ -1125,6 +1125,7 @@
   <project name="platform/external/openwrt-prebuilts" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/optee/apps" />
+  <project name="platform/external/opus-experimental" />
   <project name="platform/external/oss-fuzz" />
   <project name="platform/external/ot-br-posix" />
   <project name="platform/external/ow2-asm" />

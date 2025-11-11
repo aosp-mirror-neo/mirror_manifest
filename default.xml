@@ -2342,6 +2342,7 @@
   <project name="platform/packages/services/Mms" />
   <project name="platform/packages/services/Mtp" />
   <project name="platform/packages/services/NetworkRecommendation" />
+  <project name="platform/packages/services/QualifiedNetworksService" />
   <project name="platform/packages/services/Telecomm" />
   <project name="platform/packages/services/Telephony" />
   <project name="platform/packages/wallpapers/Basic" />

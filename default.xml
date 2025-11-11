@@ -1250,6 +1250,7 @@
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
+  <project name="platform/external/qpdf" />
   <project name="platform/external/qt" />
   <project name="platform/external/qt5" />
   <project name="platform/external/quake" />

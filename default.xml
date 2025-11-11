@@ -981,6 +981,7 @@
   <project name="platform/external/libpciaccess" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
+  <project name="platform/external/libppd" />
   <project name="platform/external/libppp" />
   <project name="platform/external/libprotobuf-mutator" />
   <project name="platform/external/libseccomp-helper" />

@@ -921,6 +921,7 @@
   <project name="platform/external/libbpf" />
   <project name="platform/external/libbrillo" />
   <project name="platform/external/libc-test" />
+  <project name="platform/external/libcamera" />
   <project name="platform/external/libcap" />
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libchrome" />

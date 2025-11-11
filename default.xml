@@ -692,6 +692,7 @@
   <project name="platform/external/embunit" />
   <project name="platform/external/emma" />
   <project name="platform/external/epid-sdk" />
+  <project name="platform/external/epson-inkjet-printer-escpr" />
   <project name="platform/external/erofs-utils" />
   <project name="platform/external/error_prone" />
   <project name="platform/external/escapevelocity" />

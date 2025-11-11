@@ -992,6 +992,7 @@
   <project name="platform/external/libtextclassifier" />
   <project name="platform/external/libtraceevent" />
   <project name="platform/external/libtracefs" />
+  <project name="platform/external/libudev-zero" />
   <project name="platform/external/libultrahdr" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />

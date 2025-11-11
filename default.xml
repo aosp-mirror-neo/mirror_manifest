@@ -1016,6 +1016,7 @@
   <project name="platform/external/libxkbcommon" />
   <project name="platform/external/libxml2" />
   <project name="platform/external/libxslt" />
+  <project name="platform/external/libyaml" />
   <project name="platform/external/libyuv" />
   <project name="platform/external/licenseclassifier" />
   <project name="platform/external/linux-firmware" />

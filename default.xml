@@ -958,6 +958,7 @@
   <project name="platform/external/libiio" />
   <project name="platform/external/libiota" />
   <project name="platform/external/libjpeg-turbo" />
+  <project name="platform/external/libjxl" />
   <project name="platform/external/libkmsxx" />
   <project name="platform/external/liblc3" />
   <project name="platform/external/libldac" />

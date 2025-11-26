@@ -1153,6 +1153,7 @@
   <project name="platform/external/pixman" />
   <project name="platform/external/pkg-config" />
   <project name="platform/external/ply" />
+  <project name="platform/external/pogreb" />
   <project name="platform/external/ppp" />
   <project name="platform/external/private-join-and-compute" />
   <project name="platform/external/proguard" />

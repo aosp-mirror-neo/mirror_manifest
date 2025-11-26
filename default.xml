@@ -1749,6 +1749,7 @@
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/rust/ninja-to-soong" />
   <project name="platform/external/rust/pica" />
+  <project name="platform/external/rust/rutabaga_gfx" />
   <project name="platform/external/ruy" />
   <project name="platform/external/s2-geometry-library-java" />
   <project name="platform/external/safe-iop" />

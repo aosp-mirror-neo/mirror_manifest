@@ -2181,6 +2181,7 @@
   <project name="platform/packages/apps/CertInstaller" />
   <project name="platform/packages/apps/Contacts" />
   <project name="platform/packages/apps/ContactsCommon" />
+  <project name="platform/packages/apps/ContactsPicker" />
   <project name="platform/packages/apps/DeskClock" />
   <project name="platform/packages/apps/DevCamera" />
   <project name="platform/packages/apps/DeviceDiagnostics" />

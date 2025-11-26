@@ -456,6 +456,7 @@
   <project name="platform/external/SPIRV-Tools" />
   <project name="platform/external/TestParameterInjector" />
   <project name="platform/external/ThrowTheSwitch-Unity" />
+  <project name="platform/external/XMP-Toolkit-SDK" />
   <project name="platform/external/XNNPACK" />
   <project name="platform/external/aac" />
   <project name="platform/external/abi-compliance-checker" />

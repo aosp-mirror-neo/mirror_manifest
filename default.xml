@@ -2706,6 +2706,7 @@
   <project name="platform/system/libprocinfo" />
   <project name="platform/system/librustutils" />
   <project name="platform/system/libsysprop" />
+  <project name="platform/system/libueventd-rs" />
   <project name="platform/system/libufdt" />
   <project name="platform/system/liburingutils" />
   <project name="platform/system/libvintf" />
@@ -2728,6 +2729,7 @@
   <project name="platform/system/nfc" />
   <project name="platform/system/nvram" />
   <project name="platform/system/peripheralmanager" />
+  <project name="platform/tools/rootcanal" />
   <project name="platform/system/secretkeeper" />
   <project name="platform/system/secure_element" />
   <project name="platform/system/security" />

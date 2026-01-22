@@ -2418,6 +2418,7 @@
   <project name="platform/prebuilts/clang/darwin-x86/x86/3.3" />
   <project name="platform/prebuilts/clang/host/darwin-universal" />
   <project name="platform/prebuilts/clang/host/darwin-x86" />
+  <project name="platform/prebuilts/clang/host/linux-arm64" />
   <project name="platform/prebuilts/clang/host/linux-x86" />
   <project name="platform/prebuilts/clang/host/windows-x86" />
   <project name="platform/prebuilts/clang/host/windows-x86_32" />

@@ -2622,6 +2622,7 @@
   <project name="platform/prebuilts/protobuf" />
   <project name="platform/prebuilts/python/darwin-x86" path="platform/prebuilts/python/darwin-x86.git" />
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
+  <project name="platform/prebuilts/python/linux-arm64" />
   <project name="platform/prebuilts/python/linux-x86" path="platform/prebuilts/python/linux-x86.git" />
   <project name="platform/prebuilts/python/linux-x86/2.7.5" />
   <project name="platform/prebuilts/python/windows-x86" />

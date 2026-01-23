@@ -2632,6 +2632,7 @@
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/rust" />
   <project name="platform/prebuilts/rust-toolchain/darwin" />
+  <project name="platform/prebuilts/rust-toolchain/linux-arm64" />
   <project name="platform/prebuilts/rust-toolchain/linux-musl-x86" />
   <project name="platform/prebuilts/rust-toolchain/linux-x86" />
   <project name="platform/prebuilts/rust-toolchain/windows-x86" />

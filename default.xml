@@ -633,6 +633,7 @@
   <project name="platform/external/collada" />
   <project name="platform/external/compiler-rt" />
   <project name="platform/external/compiler-rt_35a" />
+  <project name="platform/external/compose-hero-benchmarks/pokedex-compose" />
   <project name="platform/external/compose-hero-benchmarks/pokedex-views" />
   <project name="platform/external/compose-hero-benchmarks/poxedex-compose" />
   <project name="platform/external/connectedappssdk" />

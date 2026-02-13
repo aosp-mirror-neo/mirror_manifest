@@ -219,6 +219,7 @@
   <project name="kernel/common-modules/trusty" />
   <project name="kernel/common-modules/virtio-msg" />
   <project name="kernel/common-modules/virtual-device" />
+  <project name="kernel/common-modules/wonder" />
   <project name="kernel/common-patches" />
   <project name="kernel/configs" />
   <project name="kernel/cuttlefish-modules" />

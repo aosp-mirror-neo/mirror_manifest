@@ -2382,6 +2382,7 @@
   <project name="platform/prebuilts/android-emulator-build/qt" />
   <project name="platform/prebuilts/android-emulator-build/system-images" />
   <project name="platform/prebuilts/androidx/chrome-for-testing" />
+  <project name="platform/prebuilts/androidx/credentials" />
   <project name="platform/prebuilts/androidx/exoplayer" />
   <project name="platform/prebuilts/androidx/external" />
   <project name="platform/prebuilts/androidx/ink" />

@@ -2442,6 +2442,7 @@
   <project name="platform/prebuilts/cmdline-tools" />
   <project name="platform/prebuilts/deqp" />
   <project name="platform/prebuilts/devtools" />
+  <project name="platform/prebuilts/dokka-devsite-plugin" />
   <project name="platform/prebuilts/eclipse" />
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
